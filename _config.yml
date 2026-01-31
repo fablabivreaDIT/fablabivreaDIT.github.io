@@ -1,19 +1,21 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "FabLab Ivrea"
+subtitle: "Il futuro è di chi lo fa"
+author: "I tutor del fablab"
+description: "Fablab Ivrea è un luogo nel quale l'idea prende forma, sostanza, struttura, diventa l'oggetto che hai pensato, che hai sognato... e te lo porti a casa!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "tutors.fablabivrea@gmail.com"
+github_username: "fablabivreaDIT"
 #facebook_username: username
 #flickr_username: username
-#instagram_username: username
+instagram_username: "fablabivrea"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
+
+header:
+  show_nav: false
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
@@ -37,6 +39,6 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
       tags: Other
