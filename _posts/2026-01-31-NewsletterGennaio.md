@@ -1,6 +1,8 @@
 # 🚀 Nasce la newsletter del Fablab Ivrea!
 
-Ciao!  
+
+### **Ciao!**
+
 Questo è il **primo numero** di una nuova piccola iniziativa del **Fablab Ivrea** ✨  
 Da oggi, **una sola volta al mese** (promesso, non di più 😄) proveremo a raccontarvi cosa succede nel nostro laboratorio: progetti, idee, esperimenti, corsi, novità… insomma, un assaggio di quello che combiniamo tra stampanti 3D, elettronica e caffè.
 
