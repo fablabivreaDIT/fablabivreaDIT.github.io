@@ -12,7 +12,7 @@ E seguici anche su **Instagram** per rimanere aggiornato più spesso.
 
 ---
 
-## ![🧠][image5] **Prima news: il corso di digitalizzazione… arriva a Ivrea\!**
+## ![🧠] **Prima news: il corso di digitalizzazione… arriva a Ivrea\!**
 
 Negli ultimi mesi abbiamo partecipato a una grande attività organizzata dal **Fablab Torino**: un **corso di digitalizzazione per enti del terzo settore**, in cui siamo stati anche docenti.
 
