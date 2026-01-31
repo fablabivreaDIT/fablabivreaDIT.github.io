@@ -23,7 +23,7 @@ Sì, **nel nostro Fablab, in Officina H**, nei prossimi mesi. Un risultato che c
 Il corso è gratuito ed è pensato per accompagnare gli enti del terzo settore nel mondo digitale, con strumenti pratici e concreti.
 
 👉 Qui trovate tutte le informazioni e il link ufficiale al corso:  
-https://www.terzosettorepiemonte.it/corsi-gratuiti-enti-terzo-settore-piemonte/
+[https://www.terzosettorepiemonte.it/corsi-gratuiti-enti-terzo-settore-piemonte/](https://www.terzosettorepiemonte.it/corsi-gratuiti-enti-terzo-settore-piemonte/)
 
 📣 **Se conoscete associazioni, enti o aziende che potrebbero essere interessate, condividete il link!** Spargere la voce è il modo migliore per far arrivare queste opportunità a chi può davvero sfruttarle.
 
@@ -40,7 +40,7 @@ Per ora sul Mural trovate **un progetto di esempio**, inserito proprio per farvi
 👉 **Nel prossimo numero vi parleremo proprio di questo progetto**, entrando nel merito di cosa stiamo facendo, come sta andando e dove vogliamo arrivare: sarà il primo “racconto” ufficiale di questa nuova modalità.
 
 📌 La board è qui, fateci un salto:  
-https://app.mural.co/t/fablabivrea5568/m/fablabivrea5568/1768646190391/d509010d4c27cc3759a1db5a6dcc8066b571cdad?sender=u8cea5d49d48ab3a927c48732
+[clicca per vedere il nostro Mural dei progetti](https://app.mural.co/t/fablabivrea5568/m/fablabivrea5568/1768646190391/d509010d4c27cc3759a1db5a6dcc8066b571cdad?sender=u8cea5d49d48ab3a927c48732)
 
 ---
 
@@ -52,6 +52,8 @@ Se vi incuriosisce quello che facciamo, **venite a trovarci**: il Fablab è aper
 - 📍 **Ci trovate il sabato mattina in Officina H, a Ivrea**
 - 📸 **Seguiteci su Instagram** per news, foto e aggiornamenti più frequenti
 - ✉️ **Scriveteci senza timore**: per fare un progetto insieme, per imparare qualcosa di nuovo o anche solo per fare due chiacchiere
+
+**E soprattutto, condividete pure questa newsletter con chi avete piacere, aiutateci a condividere!!**
 
 Il Fablab vive grazie alle persone che lo attraversano.  
 Se hai un’idea, probabilmente è già un buon punto di partenza 🚀
