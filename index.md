@@ -1,6 +1,9 @@
 ---
+layout: home
 list_title: "Ultime news"
 ---
+
+{% include newsletter.html %}
 
 Benvenuti nel blog del **FabLab Ivrea**! 
 
