@@ -6,6 +6,8 @@
 Questo è il **primo numero** di una nuova piccola iniziativa del **Fablab Ivrea** ✨  
 Da oggi, **una sola volta al mese** (promesso, non di più 😄) proveremo a raccontarvi cosa succede nel nostro laboratorio: progetti, idee, esperimenti, corsi, novità… insomma, un assaggio di quello che combiniamo tra stampanti 3D, elettronica e caffè.
 
+<ins>**Nasce la Fabletter del Newslab!!! ... o qualcosa del genere, non siamo ancora molto pratici.**<ins>
+
 L’obiettivo è semplice: **tenervi aggiornati**, invitarvi a passare a trovarci e, soprattutto, **ascoltare le vostre idee**.  
 Noi portiamo avanti i progetti per cui le persone mostrano interesse: se vuoi fare qualcosa insieme, se vuoi imparare da zero (**stampa 3D, disegno, elettronica, programmazione, robotica e Arduino, droni, sviluppo di videogiochi…**) o se hai un tuo progetto tecnologico da raccontarci, **scrivici!**
 
