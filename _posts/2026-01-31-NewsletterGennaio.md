@@ -1,4 +1,4 @@
-## ![🚀][image1] **Nasce la newsletter del Fablab Ivrea\!**
+# Nasce la newsletter del Fablab Ivrea\!
 
 Ciao\!  
 Questo è il **primo numero** di una nuova piccola iniziativa del **Fablab Ivrea** ![✨][image2]  
