@@ -1,0 +1,64 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    {% assign f = site.footer %}
+    {% assign heading = f.heading | default: site.title %}
+    <h2 class="footer-heading"><img src="/img/logo.jpg"> {{ heading | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      {% assign show_contact = f.show_contact | default: true %}
+      {% if show_contact %}
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% assign show_social = f.show_social | default: true %}
+      {% if show_social %}
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+      {% endif %}
+
+      {% assign show_description = f.show_description | default: true %}
+      {% if show_description %}
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+      {% endif %}
+    </div>
+
+    {% if f.copyright %}
+    <p class="footer-copyright">{{ f.copyright | escape }}</p>
+    {% endif %}
+
+    {% if f.custom_paragraphs and f.custom_paragraphs.size > 0 %}
+    <div class="footer-custom">
+      {% for line in f.custom_paragraphs %}
+      <p>{{ line | escape }}</p>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if f.links and f.links.size > 0 %}
+    <ul class="footer-links">
+      {% for link in f.links %}
+      <li><a href="{{ link.url | escape }}">{{ link.text | escape }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+
+</footer>

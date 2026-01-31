@@ -1,3 +1,13 @@
+/* Sketch Serif – https://www.dafont.com/sketch-serif.font (Galdino Otten)
+   Download SketchSerif-Regular.ttf and place it in /fonts/ */
+@font-face {
+  font-family: 'Sketch Serif';
+  src: url('/fonts/SketchSerif-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
@@ -36,10 +46,65 @@ hr {
   right: 0;
 }
 
-.post_navi .post_navi-arrow {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 2.5em;
-  opacity: 0.3;
+
+/* Header */
+.site-header {
+  border: none;
+  background: #71C815;
+  padding-top: 2em;
+  font-weight: 900;
+  padding-bottom: 2em;
+  clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 80px), 50% 100%, 0 calc(100% - 80px));
+}
+
+.site-header a {
+  text-decoration: none;
+}
+
+.site-title-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.site-title {
+  font-family: 'Sketch Serif', serif;
+  font-size: 2rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-title img {
+  display: none;
+}
+
+.site-subtitle {
+  font-family: 'Sketch Serif', serif;
+  margin: -0.75em 0 0;
+  font-size: 1rem;
+  color: #000;
+  opacity: 0.95;
+  font-weight: normal;
+}
+
+/* Footer */
+.footer-heading img {
+  max-width: 40px;
+}
+
+.site-footer {
+  background: #71C815;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  clip-path: polygon(0 40px, 50% 0%, 100% 40px, 100% 100%, 0 100%);
+}
+
+.footer-heading {
+  font-family: 'Sketch Serif', serif;
+  text-align: center;
+}
+
+.contact-list,
+.footer-col {
+  color: #000;
 }
