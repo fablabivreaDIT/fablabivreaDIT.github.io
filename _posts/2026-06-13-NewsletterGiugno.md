@@ -1,4 +1,4 @@
-🚀 Newsletter del Fablab Ivrea \#3
+# 🚀 La Fabletter del Newslab
 
 Ciao\!
 
@@ -8,7 +8,7 @@ Anche questo mese vogliamo raccontarvi qualche novità dal laboratorio, condivid
 
 ---
 
-🕹️ Prima news: tornano gli StemDays\!
+## 🕹️ Prima news: tornano gli StemDays\!
 
 Anche quest'anno siamo stati invitati a partecipare agli **StemDays**, il camp dedicato alle ragazze delle scuole superiori che vuole avvicinare sempre più giovani alle discipline STEM attraverso attività pratiche, lavoro di squadra e tanta tecnologia.
 
@@ -21,7 +21,7 @@ Vi racconteremo tutto nel prossimo numero\!
 
 ---
 
-⚡ Seconda news: il Fablab è più divertente quando ci passate
+## ⚡ Seconda news: il Fablab è più divertente quando ci passate
 
 Negli ultimi mesi sono passati in laboratorio diversi nuovi amici del Fablab per raccontarci idee, progetti e curiosità. E come spesso accade da noi, una semplice chiacchierata ha acceso una lunga serie di esperimenti.
 
@@ -33,7 +33,7 @@ Se avete un progetto nel cassetto, una tecnologia che vi incuriosisce o semplice
 
 ---
 
-👾 Angolo nostalgia
+## 👾 Angolo nostalgia
 
 Ultimamente stiamo sviluppando anche una piccola passione per il mondo dei videogiochi retro\! Game Boy, console dimenticate, cartucce impolverate, pixel enormi e batterie che duravano meno di una riunione del Fablab.
 
@@ -42,7 +42,7 @@ Quello che ricordate ancora oggi. Quello che vi faceva perdere pomeriggi interi.
 
 ---
 
-💙 In conclusione...
+## 💙 In conclusione...
 
 Grazie per aver letto anche questo numero della newsletter 🙏  
 Se vi incuriosisce quello che facciamo, **venite a trovarci:** il Fablab è aperto, informale e nasce proprio dall'incontro tra persone con idee, dubbi e voglia di sperimentare.
@@ -54,4 +54,5 @@ Se vi incuriosisce quello che facciamo, **venite a trovarci:** il Fablab è aper
 E soprattutto, se volete supportarci, **condividete questa newsletter con un amico:** più siamo, più idee circolano, e più cose interessanti finiscono per nascere. Il Fablab vive grazie alle persone che lo attraversano.
 
 A presto,
+
 i Tutor del Fablab Ivrea 🛠️💡
