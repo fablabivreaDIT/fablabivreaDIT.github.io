@@ -3,10 +3,10 @@ layout: page
 title: Archivio
 ---
 
-{% for tag in site.tags limit 2 %}
+{% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in tag[1] limit: 2 %}
       <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
