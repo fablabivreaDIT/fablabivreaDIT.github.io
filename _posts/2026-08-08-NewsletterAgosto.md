@@ -1,5 +1,3 @@
-
-­
 # 🚀 La Fabletter del Newslab - Agosto 2026
 
 ### Ciao!
