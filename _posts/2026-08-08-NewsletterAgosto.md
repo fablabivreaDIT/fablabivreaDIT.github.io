@@ -2,7 +2,7 @@
 ­
 # 🚀 La Fabletter del Newslab - Agosto 2026
 
-Ciao!
+### Ciao!
 
 Eccoci con il quarto appuntamento della newsletter del Fablab Ivrea, l'ultimo prima della pausa estiva\!
 
