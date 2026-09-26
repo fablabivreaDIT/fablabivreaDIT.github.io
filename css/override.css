@@ -186,7 +186,11 @@ header.site-header {
   align-items: center;
 }
 
-.site-title {
+.site-title,
+.site-title:visited,
+.site-title:hover,
+.site-title:focus,
+.site-title:active {
   font-family: 'Sketch Serif', serif;
   font-size: 2rem;
   color: #fff;
