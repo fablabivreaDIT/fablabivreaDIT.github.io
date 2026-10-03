@@ -193,7 +193,7 @@ header.site-header {
 .site-title:active {
   font-family: 'Sketch Serif', serif;
   font-size: 2rem;
-  color: #fff;
+  color: #000;
   text-decoration: none;
   z-index: 1;
 }
